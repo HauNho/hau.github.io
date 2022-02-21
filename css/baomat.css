@@ -1,0 +1,43 @@
+#Center>img{
+    width: 100%;
+    height: 500px;
+    float: left;
+}
+#Center>#Control{
+    float: left;
+    width: 35%;
+    height: 700px ;
+    background-color: rgb(203, 206, 206);
+    border-radius: 15px;
+    margin: 5px;
+}
+#Control> h3{
+    position: relative;
+    left: 5px;
+}
+#infor{
+    width: 90%;
+}
+
+#Footerr{
+    float: left;
+    height: 300px;
+    width: 100%;
+    position: relative;
+        top: 200px;
+    background-color: rgb(230, 230, 230);
+    border-top: 3px solid rgb(110, 110, 110);
+    padding-top: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+footer img{
+    position: relative;
+        top: -5px;
+        left: 40px;
+    width: 530px;
+    height: auto;
+    border-radius: 200px;
+}
+#Footerr a:hover{
+    color: blue;
+}

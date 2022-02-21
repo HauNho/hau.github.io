@@ -1,0 +1,57 @@
+body{
+        width: 100%;
+}
+#Content{
+    padding-left: 30px;
+}
+#Content>#mucluc{
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: 800;
+    color: red;
+}
+#Content>#nd{
+    position: relative;
+        left: 50px;
+    font-size: 25px;
+    margin: auto;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    width: 90%;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(165, 164, 164);
+    border-radius: 5px;
+    box-shadow: 5px 5px rgb(114, 114, 114);
+}
+#Content>#nd1{
+    position: relative;
+        left: 50px;
+    font-size: 25px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    width: 90%;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(39, 248, 67);
+    border-radius: 5px;
+    box-shadow: 5px 5px rgb(52, 247, 13);
+}
+#iconbh{
+    float: right;
+    position: relative;
+        left: 200px;
+        top: -130px;
+    width: 130px;
+}
+#iconbh1{
+    float: right;
+    position: relative;
+        left: 200px;
+        top: -200px;
+    width: 130px;
+}
+footer>img{
+    position: relative;
+    left: 50px;
+}

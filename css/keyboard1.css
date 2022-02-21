@@ -1,0 +1,72 @@
+.cl1>img{
+    float: left;
+    width: 50%;
+}
+.cl2{
+    float: right;
+    width: 24%;
+    text-align: center;
+    border: 2px solid rgb(88, 87, 87);
+    border-radius: 5px;
+    position: relative;
+        top: 75px;
+}
+.cl2>h1{
+    color: rgb(204, 98, 98);
+}
+.cl3>li{
+    margin: 8px;
+    
+}
+.cl3{
+    float: right;
+    font-size: larger;
+    width: 24%;
+    position: relative;
+    top: 60px;
+}
+.cl2>div>input{
+    border-radius: 5px;
+    outline: none;
+    width: 70px;
+    margin-bottom: 5px;
+}
+.cl2>div>a>input{
+    border-radius: 5px;
+    outline: none;
+    width: 70px;
+    margin-bottom: 5px;
+}
+
+#mua{
+    width: 100px;
+    height: 32px;
+    transition: 0.5s;
+    background-color: rgb(197, 202, 206);
+    margin-left: 5px;
+}
+#mua:hover{
+    transform: scale(1.2);
+    background-color: rgb(161, 161, 161);
+}
+.nocl{
+    margin: auto;
+    width: 75%;
+    clear: both;
+    font-size: larger;
+}
+.nocl>h1{
+    text-align: center;
+}
+.nocl>img{
+    width: 75%;
+    position: relative;
+    left: 140px;
+}
+#video{
+    width: 75%;
+    height: 500px;
+    position: relative;
+    left: 140px;
+
+}
